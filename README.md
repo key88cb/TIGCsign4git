@@ -1,5 +1,5 @@
 # TIGCsign4git
-write here
+Edit the text under "Deveoper":
   - who are you?(use your nick name and contact me on wechat)
   > and maybe you want to say something?
 
