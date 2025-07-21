@@ -6,8 +6,6 @@ Edit the text under "Deveoper":
   (leave a blank line above please)
   
 Developer:
-  - (Example) muzimi
-  > I am a long-term vagetarian！
-
-  - (Example)XXX
+  - Mutsumi
+  > 神に挑むこと自体が…無謀…
 
