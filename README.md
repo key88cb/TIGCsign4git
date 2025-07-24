@@ -8,4 +8,6 @@ Edit the text under "Deveoper":
 Developer:
   - Mutsumi
   > 神に挑むこと自体が…無謀…
+  - sukiSophie
+  > 君も自分の加藤恵に出会えますように
 
