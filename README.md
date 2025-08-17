@@ -13,3 +13,6 @@ Developer:
   
   - Rander
   > 这些家伙……在说些什么呢……
+
+  - Grasebrt
+  > 私の超電磁砲永世生き
