@@ -5,19 +5,5 @@ Edit the text under "Deveoper":
 
   (leave a blank line above please)
   
-Developer:
-  - key88cb
-  > Maybe the next developer won`t use Japanese as his or her introduction? Never mind! 😜
-    
-  - Mutsumi
-  > 神に挑むこと自体が…無謀…
-
-  - sukiSophie
-  > 君も自分の加藤恵に出会えますように
-  
-  - Rander
-  > 这些家伙……在说些什么呢……
-
-  - Grasebrt
-  > 私の超電磁砲永世生き
-
+- 我是夏俊劼
+> 说啥咧，唔。。。最近我的事情有点多，可能不会把重心放在科创史的项目上。不过我还是会努力完成任务哒~  Ciallo～(∠・ω< )⌒★
