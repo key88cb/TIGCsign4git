@@ -26,3 +26,6 @@ Developer:
 
   - liaoliao
   > 也许我只是疯了。也许还严重一些。
+
+  - ladygege
+  > I am myself.
