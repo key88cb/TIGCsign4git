@@ -32,3 +32,6 @@ Developer:
 
   - yxlikely
   > 嗝儿~~~~~~
+
+  - Ansinwind
+  > 好想变成人类啊，但是主不理人:<
