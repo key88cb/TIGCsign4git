@@ -35,3 +35,7 @@ Developer:
 
   - Ansinwind
   > 好想变成人类啊，但是主不理人:<
+
+  - p3rm1t
+  > Make TIGC Great Again
+
