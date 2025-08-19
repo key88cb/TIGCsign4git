@@ -32,3 +32,6 @@ Developer:
 
   - yxlikely
   > 嗝儿~~~~~~
+
+  - p3rm1t
+  > Make TIGC Great Again
