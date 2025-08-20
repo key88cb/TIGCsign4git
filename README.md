@@ -27,5 +27,18 @@ Developer:
   - liaoliao
   > 也许我只是疯了。也许还严重一些。
 
-  - ladygege
+  - iix
+  > oi!今天花生什么大树了？
+
+  - yxlikely
+  > 嗝儿~~~~~~
+
+  - Ansinwind
+  > 好想变成人类啊，但是主不理人:<
+
+  - p3rm1t
+  > Make TIGC Great Again
+
+ - ladygege
   > I am myself.
+
