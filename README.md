@@ -39,7 +39,11 @@ Developer:
   - p3rm1t
   > Make TIGC Great Again
 
- - ladygege
+  - ladygege
   > I am myself.
+
+  - Sevepu
+  > 阿巴阿巴
+
 
 
