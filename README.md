@@ -39,5 +39,19 @@ Developer:
   - p3rm1t
   > Make TIGC Great Again
 
+
+ - ladygege
+  > I am myself.
+
+ - Sevepu
+  >阿巴阿巴 
+
+ - Layllla
+  >怎么没有妹子和我过七夕
+  
+  It is probably because you don`t want to. 🌠🌠🌠
+  >人机大战。。。险胜。。。
+
   - HL
   > 呆胶布？
+
