@@ -4,17 +4,17 @@ Edit the text under "Deveoper":
   > and maybe you want to say something?
 
   (leave a blank line above please)
-  
+
 Developer:
   - key88cb
   > Maybe the next developer won`t use Japanese as his or her introduction? Never mind! 😜
-    
+
   - Mutsumi
   > 神に挑むこと自体が…無謀…
 
   - sukiSophie
   > 君も自分の加藤恵に出会えますように
-  
+
   - Rander
   > 这些家伙……在说些什么呢……
 
@@ -39,6 +39,7 @@ Developer:
   - p3rm1t
   > Make TIGC Great Again
 
+
  - ladygege
   > I am myself.
 
@@ -51,5 +52,6 @@ Developer:
   It is probably because you don`t want to. 🌠🌠🌠
   >人机大战。。。险胜。。。
 
-
+  - HL
+  > 呆胶布？
 
